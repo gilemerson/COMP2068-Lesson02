@@ -1,2 +1,11 @@
-﻿body {
+﻿#lesson-header {
+    display:none;
+}
+
+
+
+body {
+    margin: 30px;
+    font-family: 'AlternateGothic2 BT',Castellar,'Cordia New';
+    font-size: inherit;
 }

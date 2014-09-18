@@ -2,7 +2,7 @@
 
 
 if (jQuery) {
-    console.log("Hello Lesson 02!");
+    $("#lesson-header").show();
 }
 
 
